@@ -71,8 +71,8 @@ class Routes extends Component {
 
               {/* START MY VIEWS */}
 
-              <PrivateRoute exact path="/userprofileses/:id" component={ UserProfilesEdit }  />
-              <PrivateRoute exact path="/userprofileses" component={ UserProfilesList }  />
+              <Route exact path="/userprofileses/:id" component={ UserProfilesEdit }  />
+              <Route exact path="/userprofileses" component={ UserProfilesList }  />
 
              {/* END MY VIEWS */}
 

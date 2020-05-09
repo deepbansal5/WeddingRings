@@ -537,9 +537,7 @@ components:
         - 5eb68c58bbf7210dd3bd3554
       x-skaffolder-nesteds: 
       x-skaffolder-links:
-        - 5eb68b78bbf7210dd3bd34da
         - 5eb68c58bbf7210dd3bd3557
-      x-skaffolder-roles: []
     - x-skaffolder-id: 5eb68c58bbf7210dd3bd3557
       x-skaffolder-name: UserProfilesList
       x-skaffolder-url: /userprofileses
@@ -552,7 +550,6 @@ components:
       x-skaffolder-links:
         - 5eb68c58bbf7210dd3bd3551
         - 5eb68b78bbf7210dd3bd34da
-      x-skaffolder-roles: []
   x-skaffolder-roles: 
     - x-skaffolder-id: 5eb68b79bbf7210dd3bd34dd
       x-skaffolder-name: ADMIN
